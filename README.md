@@ -23,6 +23,7 @@ Built multiple visualizations including:
 3. Pie charts
 4. Tables
 5. Slicers for filtering by city and product line.
+Interactive Features : Added slicers and filters to allow users to dynamically explore the data.
 ## Project Insights
 Key insights derived from the dashboard:
 1. Mumbai generates the highest sales income compared to other cities.
@@ -32,7 +33,3 @@ Key insights derived from the dashboard:
 5. Some product categories show lower customer satisfaction, indicating areas for improvement.
 ## Final Conclusion
 The Super Market Sales Dashboard provides a clear overview of sales performance and customer behavior.By analyzing revenue, product demand, payment preferences, and customer ratings, businesses this can make better strategic decisions to improve sales, customer satisfaction, and operational efficiency.
-
-Interactive Features
-
-Added slicers and filters to allow users to dynamically explore the data.
